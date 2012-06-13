@@ -1,4 +1,3 @@
-_wiki
-=====
+###Keep this repository absolutely empty.###
 
-Dummy repository that holds a project-spanning wiki: no code should get stored in here.
+Go to the wiki by [clicking here](https://github.com/HBHRP/_wiki/wiki).
